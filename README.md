@@ -4,4 +4,4 @@ In this repository, there are the codes used for the work on the connection for 
 
 The numerical study with the related results can be found in the Julia Jupyter Notebook [Oscillation Numerical Bound](<notebooks/Oscillations Numerical Bounds.ipynb>).
 
-The stability functions and their stability regions are in the [Maple notebook](notebooks/file.mw)
+The stability functions and their stability regions are in the [Maple notebook](notebooks/StabilityFunctions.mw)
